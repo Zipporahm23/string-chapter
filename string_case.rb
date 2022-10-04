@@ -4,6 +4,11 @@
 # 
 # using a combination of the upcase, downcase, and swapcase methods.
 
-greeting = "hello"
-people = " FRIENDS"
-other_people = " aNd fAmIlY"
+# puts  "hello".upcase
+# puts  "FRIENDS".downcase
+# puts "aNd fAmIlY".swapcase
+
+p  "hello ".upcase + "FRIENDS".downcase + " aNd fAmIlY".swapcase
+
+
+ 
